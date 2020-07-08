@@ -13,13 +13,14 @@
 
 # Usage
 **Brute Force**
-*python2 devtool.py -b [target_id] [wordlist.txt]
+
+python2 devtool.py -b [target_id] [wordlist.txt]
 
 **Multi Brute Force**
-*python2 devtool.py -m [target_id.txt] [password]
+* python2 devtool.py -m [target_id.txt] [password]
 
 **Get Access token**
-*python2 devtool.py -l -u [username] -p [password]
+* python2 devtool.py -l -u [username] -p [password]
 Saved in token.log
 
 **Retrieve Friend ID**
