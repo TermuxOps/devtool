@@ -11,7 +11,7 @@
 7. cd devtool
 8. python2 devtool.py --help
 
-#Usage
+# Usage
 ##Brute Force##
 python2 devtool.py -b [target_id] [wordlist.txt]
 
