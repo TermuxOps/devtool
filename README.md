@@ -1,7 +1,7 @@
 # View
 ![front view](Screenshot_2020-07-08-20-26-04-122_com.termux-picsay.jpg)
 
-#How To install?
+# How To install?
 1. pkg install python
 2. pkg install python2
 3. pkg install git
