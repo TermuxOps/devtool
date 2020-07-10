@@ -1,3 +1,6 @@
+#Free Recode tpi jangan Di Claim Bro wkwk :v
+#R3XDteam :)
+
 from optparse import OptionParser
 import requests
 import os
